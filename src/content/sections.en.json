@@ -1,0 +1,122 @@
+{
+  "players": {
+    "kicker": "Players & Builders",
+    "headline": "Cohere Goes Transatlantic, Shopify Goes All-In",
+    "context": "Canada's anchor AI company merges with Germany's Aleph Alpha in a landmark $20-billion deal, while Shopify doubles down on AI-first development and Loblaw taps a homegrown startup to scale operations.",
+    "moves": [
+      {
+        "date": "2026-04-24",
+        "summary": "Toronto-based Cohere merges with Germany's Aleph Alpha, creating a $20B transatlantic AI powerhouse headquartered in Toronto and Berlin. Schwarz Group commits US$600M as lead investor.",
+        "source": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/"
+      },
+      {
+        "date": "2026-05-05",
+        "summary": "Shopify reports AI now powers over half of all coding at the company; 300+ features shipped last year while keeping headcount flat. CEO Tobi Lutke calls AI a 'baseline expectation.'",
+        "source": "https://www.bnnbloomberg.ca/business/2026/05/05/shopify-leaning-deeper-into-ai-reports-us581m-q1-loss/"
+      },
+      {
+        "date": "2026-05-04",
+        "summary": "Loblaw partners with Canadian AI firm Shakudo to build and run first-party AI applications, centralizing deployment across its retail operations with full data sovereignty.",
+        "source": "https://www.bnnbloomberg.ca/press-releases/2026/05/04/loblaw-partners-with-canadian-ai-company-shakudo-to-accelerate-its-ai-adoption-and-deployment/"
+      }
+    ],
+    "pullQuote": "Organizations globally are demanding uncompromising control over their AI stack. This transatlantic partnership unlocks the massive scale, robust infrastructure, and world-class R&D talent required to meet that demand.",
+    "quoteAttribution": "Aidan Gomez, CEO & Co-founder, Cohere"
+  },
+  "capital": {
+    "kicker": "Capital & Investment",
+    "headline": "Ottawa and Industry Pour Billions into Sovereign Compute",
+    "context": "The federal government partners with TELUS on a billion-dollar data-centre cluster in BC and opens a landmark $890M infrastructure program. Private capital is flowing in lockstep.",
+    "moves": [
+      {
+        "date": "2026-05-11",
+        "summary": "Government of Canada and TELUS announce a $1B+ sovereign AI data-centre cluster in British Columbia — 60,000+ NVIDIA GPUs, 150 MW capacity by 2032, powered by 98% renewable energy.",
+        "source": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html"
+      },
+      {
+        "date": "2026-04-24",
+        "summary": "Germany's Schwarz Group commits US$600M to Cohere's Series E as part of the Aleph Alpha merger, the largest single investment in a Canadian AI company this year.",
+        "source": "https://sifted.eu/articles/aleph-alpha-strikes-20bn-merger-deal-with-canadas-cohere"
+      },
+      {
+        "date": "2026-05-07",
+        "summary": "Saskatchewan-based Vendasta receives $1.4M from the federal Regional AI Initiative to commercialize AI-augmented workflows for local businesses across Canada.",
+        "source": "https://www.bnnbloomberg.ca/press-releases/2026/05/07/canada-is-funding-the-ai-workforce-for-local-businesses-vendasta-is-building-it/"
+      }
+    ],
+    "pullQuote": "By advancing this project with TELUS, we are taking concrete action to build sovereign AI capacity here in Canada, so Canadian innovators, researchers and businesses have access to the compute they need.",
+    "quoteAttribution": "Evan Solomon, Minister of AI and Digital Innovation"
+  },
+  "talent": {
+    "kicker": "Talent & Workforce",
+    "headline": "AI Agents Are Already Reshaping How Canada Hires",
+    "context": "A majority of Canadian executives say agentic AI has changed how they recruit. Meanwhile, half of employees now use generative AI daily — but formal training hasn't kept pace with adoption.",
+    "moves": [
+      {
+        "date": "2026-05-06",
+        "summary": "KPMG survey of 306 executives: 77% of Canadian companies are deploying AI agents for knowledge sharing; 59% say agents have already changed entry-level hiring practices.",
+        "source": "https://kpmg.com/ca/en/media/2026/05/canadian-leaders-expect-agentic-ai-to-reshape-workforce.html"
+      },
+      {
+        "date": "2026-04-22",
+        "summary": "CFIB report finds 45% of Canadian businesses now use GenAI in operations — but most employees have not received formal AI training, creating a widening skills gap.",
+        "source": "https://www.cfib-fcei.ca/en/research-economic-analysis/ai-adoption"
+      },
+      {
+        "date": "2026-03-27",
+        "summary": "KPMG finds 51% of Canadian employees use GenAI at work (up from 46% in 2024). 79% report improved productivity, saving 1–5 hours per week.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/beyond-ai-adoption.html"
+      }
+    ],
+    "pullQuote": "Reflexive AI usage is now a baseline expectation at Shopify.",
+    "quoteAttribution": "Tobi Lutke, CEO, Shopify"
+  },
+  "policy": {
+    "kicker": "Policy & Regulation",
+    "headline": "Ottawa Writes the Rules — With Chequebook in Hand",
+    "context": "With AIDA dead on the order paper, the government is governing AI through compute investment and voluntary codes rather than legislation. The new AI ministry is moving fast on infrastructure.",
+    "moves": [
+      {
+        "date": "2026-04-15",
+        "summary": "Canada launches the $890M AI Sovereign Compute Infrastructure Program, opening applications to build a national public AI supercomputer. Deadline: June 1, 2026.",
+        "source": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/04/canada-launches-national-initiative-to-build-large-scale-ai-supercomputing-capacity.html"
+      },
+      {
+        "date": "2026-03-25",
+        "summary": "Minister Solomon announces $8.5M for 40 AI projects across Atlantic Canada, targeting small and medium businesses in the region through the Regional AI Initiative.",
+        "source": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/03/minister-solomon-announces-85m-for-40-ai-projects-to-help-atlantic-canadian-businesses-grow.html"
+      },
+      {
+        "date": "2026-04-15",
+        "summary": "Statistics Canada publishes firm-level study linking AI adoption to productivity: adoption doubled to 12.2% but complementary capabilities are needed for transformative gains.",
+        "source": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026004/article/00002-eng.htm"
+      }
+    ],
+    "pullQuote": "The pace of advances is still much greater than the pace of how we can manage those risks and mitigate them. That puts the ball in the hands of the policymakers.",
+    "quoteAttribution": "Yoshua Bengio, Scientific Director, Mila"
+  },
+  "adoption": {
+    "kicker": "Adoption & Impact",
+    "headline": "93% Piloting AI, But Only 2% See Returns",
+    "context": "Canadian businesses are rushing to adopt, but the gap between experimentation and measurable ROI is stark. The challenge has shifted from 'should we use AI?' to 'how do we make it pay?'",
+    "moves": [
+      {
+        "date": "2026-03-27",
+        "summary": "KPMG: 93% of Canadian business leaders now use or pilot AI (up from 61% last year) — yet only 2% report measurable returns on investment.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/beyond-ai-adoption.html"
+      },
+      {
+        "date": "2026-03-26",
+        "summary": "KPMG public-sector report: only 22% of government organizations have implemented AI tools, even as nearly half of public servants use AI informally in daily work.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/responsible-ai-adoption-in-canadian-public-sector.html"
+      },
+      {
+        "date": "2026-04-22",
+        "summary": "The Hub analysis: Canada's 12.2% firm-level AI adoption rate has doubled year-over-year, but analysts argue it remains far too low for transformative productivity gains.",
+        "source": "https://thehub.ca/2026/04/22/ai-will-be-massive-but-canadas-12-percent-adoption-rate-says-it-isnt-ready/"
+      }
+    ],
+    "pullQuote": "AI for all means AI to serve Canadians, not the other way around. (paraphrase)",
+    "quoteAttribution": "Evan Solomon, Minister of AI and Digital Innovation"
+  }
+}

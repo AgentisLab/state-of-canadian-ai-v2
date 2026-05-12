@@ -1,0 +1,122 @@
+{
+  "players": {
+    "kicker": "Acteurs et bâtisseurs",
+    "headline": "Cohere passe en mode transatlantique, Shopify mise tout sur l'IA",
+    "context": "Le fleuron canadien de l'IA fusionne avec l'allemand Aleph Alpha dans une transaction évaluée à 20 milliards de dollars, pendant que Shopify pousse le développement assisté par IA à un autre niveau et que Loblaw fait appel à une jeune pousse d'ici pour déployer l'IA à grande échelle.",
+    "moves": [
+      {
+        "date": "2026-04-24",
+        "summary": "Cohere, de Toronto, fusionne avec l'allemand Aleph Alpha pour créer un géant transatlantique de l'IA valorisé à 20 G$, dont le siège sera partagé entre Toronto et Berlin. Le Schwarz Group investit 600 M$ US.",
+        "source": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/"
+      },
+      {
+        "date": "2026-05-05",
+        "summary": "Shopify révèle que l'IA est derrière plus de la moitié de tout le code produit en interne; plus de 300 fonctionnalités livrées l'an dernier, effectifs stables. Le PDG Tobi Lütke qualifie l'IA d'« attente de base ».",
+        "source": "https://www.bnnbloomberg.ca/business/2026/05/05/shopify-leaning-deeper-into-ai-reports-us581m-q1-loss/"
+      },
+      {
+        "date": "2026-05-04",
+        "summary": "Loblaw s'associe à Shakudo, une entreprise canadienne d'IA, pour bâtir et exploiter des applications d'IA maison, avec souveraineté complète sur les données à travers ses opérations de détail.",
+        "source": "https://www.bnnbloomberg.ca/press-releases/2026/05/04/loblaw-partners-with-canadian-ai-company-shakudo-to-accelerate-its-ai-adoption-and-deployment/"
+      }
+    ],
+    "pullQuote": "Les organisations du monde entier exigent un contrôle absolu sur leur infrastructure d'IA. Ce partenariat transatlantique libère l'envergure massive, l'infrastructure robuste et les talents de calibre mondial nécessaires pour répondre à cette demande.",
+    "quoteAttribution": "Aidan Gomez, PDG et cofondateur, Cohere"
+  },
+  "capital": {
+    "kicker": "Capitaux et investissements",
+    "headline": "Ottawa et l'industrie injectent des milliards dans le calcul souverain",
+    "context": "Le gouvernement fédéral s'associe à TELUS pour un méga-centre de données en C.-B. et lance un programme d'infrastructure de 890 M$. Le capital privé suit le mouvement.",
+    "moves": [
+      {
+        "date": "2026-05-11",
+        "summary": "Le gouvernement du Canada et TELUS annoncent un complexe souverain de centres de données IA de plus de 1 G$ en Colombie-Britannique : 60 000 processeurs graphiques NVIDIA, capacité de 150 MW d'ici 2032, alimenté à 98 % par de l'énergie renouvelable.",
+        "source": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/05/le-gouvernement-du-canada-et-telus-font-avancer-les-travaux-en-vue-de-batir-une-infrastructure-dia-souveraine.html"
+      },
+      {
+        "date": "2026-04-24",
+        "summary": "Le Schwarz Group d'Allemagne engage 600 M$ US dans la ronde de série E de Cohere dans le cadre de la fusion avec Aleph Alpha — le plus gros investissement unique dans une entreprise d'IA canadienne cette année.",
+        "source": "https://sifted.eu/articles/aleph-alpha-strikes-20bn-merger-deal-with-canadas-cohere"
+      },
+      {
+        "date": "2026-05-07",
+        "summary": "Vendasta, de la Saskatchewan, reçoit 1,4 M$ de l'Initiative régionale en intelligence artificielle du fédéral pour commercialiser des flux de travail augmentés par l'IA destinés aux PME canadiennes.",
+        "source": "https://www.bnnbloomberg.ca/press-releases/2026/05/07/canada-is-funding-the-ai-workforce-for-local-businesses-vendasta-is-building-it/"
+      }
+    ],
+    "pullQuote": "En faisant avancer ce projet avec TELUS, nous posons des gestes concrets pour bâtir une capacité souveraine en IA ici au Canada, afin que les innovateurs, les chercheurs et les entreprises d'ici aient accès au calcul dont ils ont besoin.",
+    "quoteAttribution": "Evan Solomon, ministre de l'IA et de l'Innovation numérique"
+  },
+  "talent": {
+    "kicker": "Talents et main-d'œuvre",
+    "headline": "Les agents IA bouleversent déjà l'embauche au Canada",
+    "context": "La majorité des dirigeants canadiens affirment que l'IA agentique a changé leurs pratiques de recrutement. La moitié des employés utilisent l'IA générative au quotidien, mais la formation tarde à suivre.",
+    "moves": [
+      {
+        "date": "2026-05-06",
+        "summary": "Sondage KPMG auprès de 306 dirigeants : 77 % des entreprises canadiennes déploient des agents IA pour le partage de connaissances; 59 % affirment que les agents ont déjà transformé l'embauche de postes de premier échelon.",
+        "source": "https://kpmg.com/ca/en/media/2026/05/canadian-leaders-expect-agentic-ai-to-reshape-workforce.html"
+      },
+      {
+        "date": "2026-04-22",
+        "summary": "Rapport de la FCEI : 45 % des entreprises canadiennes utilisent l'IA générative — mais la majorité des employés n'ont reçu aucune formation officielle, creusant un fossé de compétences grandissant.",
+        "source": "https://www.cfib-fcei.ca/en/research-economic-analysis/ai-adoption"
+      },
+      {
+        "date": "2026-03-27",
+        "summary": "KPMG révèle que 51 % des employés canadiens utilisent l'IA générative au travail (contre 46 % en 2024). De ceux-ci, 79 % rapportent des gains de productivité de 1 à 5 heures par semaine.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/beyond-ai-adoption.html"
+      }
+    ],
+    "pullQuote": "L'utilisation instinctive de l'IA est désormais une attente de base chez Shopify.",
+    "quoteAttribution": "Tobi Lütke, PDG, Shopify"
+  },
+  "policy": {
+    "kicker": "Politiques et réglementation",
+    "headline": "Ottawa écrit les règles du jeu — chéquier à la main",
+    "context": "La LIDD étant morte au Feuilleton, le gouvernement gouverne l'IA par les investissements en calcul et les codes volontaires plutôt que par la législation. Le nouveau ministère de l'IA avance vite sur les infrastructures.",
+    "moves": [
+      {
+        "date": "2026-04-15",
+        "summary": "Le Canada lance le Programme d'infrastructure de calcul souverain en IA de 890 M$, ouvrant l'appel de propositions pour bâtir un supercalculateur public national. Date limite : 1er juin 2026.",
+        "source": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/04/le-canada-lance-une-initiative-nationale-visant-a-batir-une-capacite-de-supercalcul-en-ia-a-grande-echelle.html"
+      },
+      {
+        "date": "2026-03-25",
+        "summary": "Le ministre Solomon annonce 8,5 M$ pour 40 projets d'IA au Canada atlantique, ciblant les PME de la région par l'entremise de l'Initiative régionale en intelligence artificielle.",
+        "source": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/03/minister-solomon-announces-85m-for-40-ai-projects-to-help-atlantic-canadian-businesses-grow.html"
+      },
+      {
+        "date": "2026-04-15",
+        "summary": "Statistique Canada publie une étude liant l'adoption de l'IA à la productivité des entreprises : l'adoption a doublé à 12,2 %, mais des capacités complémentaires sont nécessaires pour des gains transformateurs.",
+        "source": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026004/article/00002-fra.htm"
+      }
+    ],
+    "pullQuote": "Le rythme des avancées dépasse encore largement celui auquel nous pouvons gérer et atténuer ces risques. Cela remet la balle dans le camp des décideurs politiques.",
+    "quoteAttribution": "Yoshua Bengio, directeur scientifique, Mila"
+  },
+  "adoption": {
+    "kicker": "Adoption et impact",
+    "headline": "93 % pilotent l'IA, mais seulement 2 % en tirent un rendement",
+    "context": "Les entreprises canadiennes se ruent vers l'IA, mais l'écart entre l'expérimentation et le rendement mesurable est criant. La question n'est plus « faut-il adopter l'IA? » mais « comment la rentabiliser? ».",
+    "moves": [
+      {
+        "date": "2026-03-27",
+        "summary": "KPMG : 93 % des dirigeants canadiens utilisent ou pilotent l'IA (contre 61 % l'an dernier) — mais seulement 2 % déclarent un rendement mesurable sur leur investissement.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/beyond-ai-adoption.html"
+      },
+      {
+        "date": "2026-03-26",
+        "summary": "Rapport KPMG sur le secteur public : seuls 22 % des organismes gouvernementaux ont implanté des outils d'IA, alors que près de la moitié des fonctionnaires utilisent l'IA de façon informelle au quotidien.",
+        "source": "https://kpmg.com/ca/en/insights/2026/03/responsible-ai-adoption-in-canadian-public-sector.html"
+      },
+      {
+        "date": "2026-04-22",
+        "summary": "Analyse du Hub : le taux d'adoption de l'IA par les entreprises canadiennes atteint 12,2 % (le double d'il y a un an), mais les analystes jugent ce rythme encore insuffisant pour des gains de productivité transformateurs.",
+        "source": "https://thehub.ca/2026/04/22/ai-will-be-massive-but-canadas-12-percent-adoption-rate-says-it-isnt-ready/"
+      }
+    ],
+    "pullQuote": "L'IA pour tous, ça veut dire l'IA au service des Canadiens — pas l'inverse. (paraphrase)",
+    "quoteAttribution": "Evan Solomon, ministre de l'IA et de l'Innovation numérique"
+  }
+}
